@@ -1,4 +1,4 @@
-<img width="2555" height="2268" alt="image" src="https://github.com/user-attachments/assets/e9cba800-4118-4a03-8ee9-bad1ea25e5ff" /># Pronosticar el éxito en la NFL
+# Pronosticar el éxito en la NFL
 
 Proyecto del curso "Programar con criterio en la era de la IA".
 Pregunta: ¿qué características de un jugador, conocidas en el draft,
